@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud computing (Azure), Spring Boot, and React**
 
-- I'm currently planning an **Inventory Management System for WCEL equipment**
+- 📝 I'm currently planning an **Inventory Management System for WCEL technology and equipment**
 
 - 🤝 I’m looking for feedback on my [personal website](https://www.donstrong.in)
 
